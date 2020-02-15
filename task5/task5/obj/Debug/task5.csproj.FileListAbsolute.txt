@@ -1,0 +1,6 @@
+D:\C#.net\task5\task5\bin\Debug\task5.exe.config
+D:\C#.net\task5\task5\bin\Debug\task5.exe
+D:\C#.net\task5\task5\bin\Debug\task5.pdb
+D:\C#.net\task5\task5\obj\Debug\task5.csprojAssemblyReference.cache
+D:\C#.net\task5\task5\obj\Debug\task5.exe
+D:\C#.net\task5\task5\obj\Debug\task5.pdb

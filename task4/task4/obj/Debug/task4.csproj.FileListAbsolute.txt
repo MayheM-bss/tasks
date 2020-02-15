@@ -1,0 +1,6 @@
+D:\C#.net\task4\task4\bin\Debug\task4.exe.config
+D:\C#.net\task4\task4\bin\Debug\task4.exe
+D:\C#.net\task4\task4\bin\Debug\task4.pdb
+D:\C#.net\task4\task4\obj\Debug\task4.csprojAssemblyReference.cache
+D:\C#.net\task4\task4\obj\Debug\task4.exe
+D:\C#.net\task4\task4\obj\Debug\task4.pdb
